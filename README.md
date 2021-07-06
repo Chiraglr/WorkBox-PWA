@@ -27,8 +27,24 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Useful links:
+* https://developers.google.com/web/fundamentals/codelabs/offline#build_the_starter_app
+* https://gist.github.com/jeffposnick/7547c69a0780f7782423
+* https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers
+* https://developers.google.com/web/fundamentals/primers/service-workers
+* https://jakearchibald.github.io/isserviceworkerready/resources.html#moar
+* https://developers.google.com/web/updates/2019/06/pwa-install-addressbar
+* https://web.dev/install-criteria/
+* https://betterprogramming.pub/using-workbox-with-next-js-a-step-towards-progressive-web-apps-a3f985f5f864
+* https://developers.google.com/web/tools/workbox/guides/get-started
+* https://github.com/cansin/next-with-workbox#readme
+* https://developers.google.com/web/tools/workbox/reference-docs/latest/module-workbox-strategies#networkonly
+* https://www.google.com/search?q=precache+vs+runtime+cache&oq=precache+vs+&aqs=chrome.1.69i57j0j0i22i30l2.3580j0j7&sourceid=chrome&ie=UTF-8
+* https://gist.github.com/jeffposnick/fc761c06856fa10dbf93e62ce7c4bd57
+* https://github.com/GoogleChrome/workbox/issues/1513
+* https://www.youtube.com/watch?v=1gNszTZHQYA
+* https://github1s.com/GoogleChrome/workbox/blob/main/packages/workbox-routing/src/Router.ts
+* https://github.com/GoogleChrome/workbox/issues/1790
+* https://github.com/GoogleChrome/workbox/issues/2418
+* https://stackoverflow.com/questions/33262385/service-worker-force-update-of-new-assets
+* https://github.com/vercel/next.js/tree/canary/examples/progressive-web-app
