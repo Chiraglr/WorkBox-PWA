@@ -128,8 +128,6 @@ setCatchHandler(({ event }) => {
   // One approach would be to use request.destination, see
   // https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c
   console.log(event);
-//   if(event.request.pathname.includes('us-stocks'))
-//     return matchPrecache('/offline');
   switch (event.request.destination) {
     case 'document':
       // If using precached URLs:
