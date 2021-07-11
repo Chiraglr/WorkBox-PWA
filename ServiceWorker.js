@@ -100,7 +100,7 @@ registerRoute(
 //   /.*/i,
   (req) => {
     //   console.log(req,JSON.stringify(req),new RegExp(/.*/i).test(req.url.pathname) && req.destination!=='document');
-      return new RegExp(/.*/i).test(req.url.pathname) && !new RegExp('/us-stocks$').test('/us-stocks');
+      return new RegExp(/.*/i).test(req.url.pathname) && !new RegExp('/notOffline$').test('/notOffline');
     },
   new NetworkFirst({
     cacheName: 'others',
